@@ -1,6 +1,8 @@
 # Needs imrovement
 ## Increase the epoches for better prediction 
 ## Problem with the special charecters in the startseq and endseq tags
+
+Flickr 8k [Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download)
 ---------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App

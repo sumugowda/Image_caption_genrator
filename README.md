@@ -1,3 +1,8 @@
+# Needs imrovement
+## Increase the epoches for better prediction 
+## Problem with the special charecters in the startseq and endseq tags
+---------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
